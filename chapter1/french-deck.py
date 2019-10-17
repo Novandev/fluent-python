@@ -1,5 +1,5 @@
 # primary motivator of this file
-# https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/480px-Anonymous_-_Prise_de_la_Bastille.jpg
+# https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555930408/shape/mentalfloss/french-revolution_6.jpg
 
 import collections
 from random import choice,shuffle
