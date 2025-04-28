@@ -1,6 +1,9 @@
 import collections
+
 from random import choice,shuffle
+
 Card = collections.namedtuple('Card', ['rank', 'suit'])
+
 class FrenchDeck:
     ranks = [str(n) for n in range(2, 11)] + list('JQKA')  # This should be a list of numers 1-11 as well as the face carsd
     suits = 'spades diamonds clubs hearts'.split() # Spliting this string based onthe names of the suits
